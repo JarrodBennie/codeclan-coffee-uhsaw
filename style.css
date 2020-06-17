@@ -6,3 +6,11 @@ body {
 a {
     color: #fff;
 }
+
+header {
+    background-color: salmon;
+}
+
+h1 {
+    color: dodgerblue;
+}
